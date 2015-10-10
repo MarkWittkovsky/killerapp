@@ -4,6 +4,7 @@ using namespace std;
 
 void showIntro(){
     cout << "hallo das ist der feature branch" <<endl;
+    cout << "im feature branch commit 2" << endl;
 }
 
 int main()
