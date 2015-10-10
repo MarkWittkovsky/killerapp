@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void abspann(){
+    cout << "Berechnugn vorbei";
+}
+
 int main()
 {
 
@@ -9,5 +13,6 @@ int main()
         cout << i <<"*" <<i << " = " << i*i << endl;
 
     }
+    abspann();
     return 0;
 }
