@@ -3,8 +3,8 @@
 using namespace std;
 
 void showIntro(){
-    cout << "hallo das ist der feature branch" <<endl;
-    cout << "im feature branch commit 2" << endl;
+    cout << "Hallo das ist der feature branch !!!" <<endl;
+    cout << "Im feature branch commit 3" << endl;
 }
 
 int main()
