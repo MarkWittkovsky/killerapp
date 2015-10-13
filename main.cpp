@@ -7,6 +7,10 @@ void showIntro(){
     cout << "Im feature branch commit 3" << endl;
 }
 
+void hello(){
+    cout << "hello function" << endl;
+}
+
 int main()
 {
 
@@ -15,5 +19,7 @@ int main()
     for (int i=0;i<10;++i){
         cout << i*i << endl;
     }
+
+    hello();
     return 0;
 }
